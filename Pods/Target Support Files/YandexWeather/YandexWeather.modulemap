@@ -1,0 +1,6 @@
+framework module YandexWeather {
+  umbrella header "YandexWeather-umbrella.h"
+
+  export *
+  module * { export * }
+}

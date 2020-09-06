@@ -1,0 +1,21 @@
+PODS:
+  - YandexWeather (1.0.0)
+
+DEPENDENCIES:
+  - YandexWeather (from `https://github.com/nofuture17/yandex-weather.git`)
+
+EXTERNAL SOURCES:
+  YandexWeather:
+    :git: https://github.com/nofuture17/yandex-weather.git
+
+CHECKOUT OPTIONS:
+  YandexWeather:
+    :commit: a2859416d8e2ca0829bd5192b535dc1518e6140e
+    :git: https://github.com/nofuture17/yandex-weather.git
+
+SPEC CHECKSUMS:
+  YandexWeather: 9f0fb66dd444fe91c08406a632fa252586d6ffdf
+
+PODFILE CHECKSUM: 441f867c0efd8dcec333c6e85ba7f741c669f11a
+
+COCOAPODS: 1.9.3

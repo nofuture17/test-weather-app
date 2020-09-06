@@ -1,0 +1,24 @@
+{
+  "name": "YandexWeather",
+  "version": "1.0.0",
+  "summary": "Demo framework",
+  "description": "Demo framework for using yandex weather API",
+  "homepage": "http://yandex.ru",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Suchilov Andrey": "ar2041@bk.ru"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://github.com/nofuture17/yandex-weather.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "YandexWeather/Source/*.{swift}",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}
